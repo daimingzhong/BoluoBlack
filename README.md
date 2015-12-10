@@ -1,5 +1,8 @@
-Tell you what, I find a new place.     
-</br>I had banana today.
-</br>README居然兼容html，蛇精病啊！
+12.10 星期三 阴     
+
+</br>首先吐槽一下README的换行，居然是兼容html的格式，蛇精病啊！
+
+</br>今天我吃了一个香蕉，一个枣子。
+
 
 

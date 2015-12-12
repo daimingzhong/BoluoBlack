@@ -1,10 +1,10 @@
 12.10 星期三 阴     
 
-</br>首先吐槽一下README的换行，居然是兼容html的格式，蛇精病啊！
+</br>README默认.md格式，markdown，兼容html的格式
 
-</br>今天我吃了一个香蕉，一个枣子。
+</br>水果：一个香蕉，一个枣子。
 
-</br>下面一篇ReadMe技巧：
+</br>下面是一篇ReadMe技巧：
 </br>
 </br>
 
